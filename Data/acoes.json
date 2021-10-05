@@ -1,0 +1,46 @@
+{"payload": [
+    {
+        "id": 1,
+        "codigo": "ALUR3",
+        "descricao": "Alura ON",
+        "preco": 25.1
+    },
+    {
+        "id": 2,
+        "codigo": "ALUR4",
+        "descricao": "Alura PN",
+        "preco": 25.1
+    },
+    {
+        "id": 3,
+        "codigo": "CAEL3",
+        "descricao": "Caellum ON",
+        "preco": 25.1
+    },
+    {
+        "id": 4,
+        "codigo": "CASC3",
+        "descricao": "Casa do codigo ON",
+        "preco": 25.1
+    },
+    {
+        "id": 5,
+        "codigo": "JAVA3",
+        "descricao": "JAVA ON",
+        "preco": 25.1
+    },
+    {
+        "id": 6,
+        "codigo": "PHPP3",
+        "descricao": "PHP ON",
+        "preco": 25.1
+    },
+    {
+        "id": 7,
+        "codigo": "NETC3",
+        "descricao": "Net Core ON",
+        "preco": 25.1
+    }
+]
+
+}
